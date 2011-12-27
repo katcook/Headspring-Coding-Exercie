@@ -1,0 +1,5 @@
+C:\Users\katcook\Documents\Visual Studio 2010\Projects\CodingExercise\CodingExercise\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\katcook\Documents\Visual Studio 2010\Projects\CodingExercise\CodingExercise\bin\Debug\CodingExercise.exe
+C:\Users\katcook\Documents\Visual Studio 2010\Projects\CodingExercise\CodingExercise\bin\Debug\CodingExercise.pdb
+C:\Users\katcook\Documents\Visual Studio 2010\Projects\CodingExercise\CodingExercise\obj\x86\Debug\CodingExercise.exe
+C:\Users\katcook\Documents\Visual Studio 2010\Projects\CodingExercise\CodingExercise\obj\x86\Debug\CodingExercise.pdb

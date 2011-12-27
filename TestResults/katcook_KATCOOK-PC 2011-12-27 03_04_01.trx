@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="449f1f7e-5c92-4616-b8b1-f01d37d01dfc" name="katcook@KATCOOK-PC 2011-12-27 03:04:01" runUser="katcook-PC\katcook" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="93d12e59-1598-4c80-a883-7ed902b33009">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment userDeploymentRoot="C:\Users\katcook\Documents\Visual Studio 2010\Projects\CodingExercise\TestResults" useDefaultDeploymentRoot="false" enabled="false" runDeploymentRoot="katcook_KATCOOK-PC 2011-12-27 03_04_01" />
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2011-12-27T03:04:01.1115645-06:00" queuing="2011-12-27T03:04:01.1405645-06:00" start="2011-12-27T03:04:01.1765645-06:00" finish="2011-12-27T03:04:02.3255645-06:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestMethod1" storage="c:\users\katcook\documents\visual studio 2010\projects\codingexercise\tests\bin\debug\tests.dll" id="eb777582-13c1-9779-7711-76348bb9268a">
+      <Execution id="fa25f42e-113e-4ae0-880c-59e7ef7b1d6c" />
+      <TestMethod codeBase="C:/Users/katcook/Documents/Visual Studio 2010/Projects/CodingExercise/Tests/bin/Debug/Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Tests.test_fizzbuzz, Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod1" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="eb777582-13c1-9779-7711-76348bb9268a" executionId="fa25f42e-113e-4ae0-880c-59e7ef7b1d6c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="fa25f42e-113e-4ae0-880c-59e7ef7b1d6c" testId="eb777582-13c1-9779-7711-76348bb9268a" testName="TestMethod1" computerName="KATCOOK-PC" duration="00:00:00.0733987" startTime="2011-12-27T03:04:01.1985645-06:00" endTime="2011-12-27T03:04:02.1865645-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="fa25f42e-113e-4ae0-880c-59e7ef7b1d6c">
+    </UnitTestResult>
+  </Results>
+</TestRun>
